@@ -1,2 +1,2 @@
 # LetsUpgrade-Assignments
-Completed assignments
+Completed assignments are submitted
